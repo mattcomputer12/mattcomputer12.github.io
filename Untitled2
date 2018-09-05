@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif, helvetica, comic;
+    line-height: 1.5;
+    font-size: 16px;
+    text-align: center;
+}
+
+header{
+    background: rgb(0,255,255)
+    border-bottom: orange 5px solid;
+    color:orange;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+nav{
+   float: right;
+} 
+  
+li{
+     display: inline;
+}
+    
+header h1{
+    float: left;
+    margin-top
+
+
+
+
+
+
+
+
+
